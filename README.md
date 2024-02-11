@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer trying to explore new things</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Python<br>💬 Ask me about Web Development<br>📄 Know about my experiences https://drive.google.com/file/d/1sXNK2wVnV-YXgScY1xrxGcE2u_nUwAbe/view?usp=drive_link
+🌱 I’m currently learning Python<br>💬 Ask me about Web Development<br>📄 Know about my experiences https://drive.google.com/file/d/1ku8m67VLd2stUk13dskiaZ5P6j47mRSu/view?usp=drive_link
 
 
 ## 🌐 Socials:
