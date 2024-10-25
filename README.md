@@ -2,8 +2,10 @@
 <h3 align="center">A passionate Full Stack Web Developer trying to explore new things</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning WebRTC<br>💬 Ask me about Web Development<br><div>📄
-<a href='https://drive.google.com/file/d/1D2hRDKkW62YVlxGsxO9hzDeV2hAQ2nBG/view?usp=sharing' target='_blank'><img height='64' style='border:0px;height:64px;' border='0' alt='My resume' /></a>
+🌱 I’m currently learning WebRTC<br>💬 Ask me about Web Development<br>
+<hr/>
+<div align = "center">📄
+<a href='https://drive.google.com/file/d/11CWh_BPurKdRxHojmcGN6ceiP5w0YXfn/view?usp=drive_link' target='_blank'><img height='64' style='border:0px;height:64px;' border='0'/>My Resume</a>
 </div>
 
 
