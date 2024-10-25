@@ -21,11 +21,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anish-garg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=anish-garg&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <hr style="height: 2px; background-color: #333; border: none;"/>
 <div align = "center">📄
 <a href='https://drive.google.com/file/d/11CWh_BPurKdRxHojmcGN6ceiP5w0YXfn/view?usp=drive_link' target='_blank'>My Resume</a>
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=anish-garg&icon=2&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
