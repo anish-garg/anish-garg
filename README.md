@@ -25,7 +25,6 @@
 <hr style="height: 2px; background-color: #333; border: none;"/>
 <div align="center">
   <a href="https://drive.google.com/file/d/11CWh_BPurKdRxHojmcGN6ceiP5w0YXfn/view?usp=drive_link" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c56d667f-fb99-46d9-85b3-49194f1c8216" width="24" height="24" style="vertical-align: middle;"/>
     My Resume
   </a>
 </div>
