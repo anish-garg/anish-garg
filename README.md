@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🌱 I’m currently learning WebRTC<br>💬 Ask me about Web Development<br><div>📄
-<a href='https://drive.google.com/file/d/1D2hRDKkW62YVlxGsxO9hzDeV2hAQ2nBG/view?usp=sharing' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://www.rachelmaclean.com/wp-content/uploads/2016/06/download-cv-button.png' border='0' alt='My resume' /></a>
+<a href='https://drive.google.com/file/d/1D2hRDKkW62YVlxGsxO9hzDeV2hAQ2nBG/view?usp=sharing' target='_blank'><img height='64' style='border:0px;height:64px;' border='0' alt='My resume' /></a>
 </div>
 
 
