@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🌱 I’m currently learning WebRTC<br>💬 Ask me about Web Development<br>
-<hr height = "2px"/>
+<hr style="height: 2px; background-color: #333; border: none;"/>
 <div align = "center">📄
 <a href='https://drive.google.com/file/d/11CWh_BPurKdRxHojmcGN6ceiP5w0YXfn/view?usp=drive_link' target='_blank'>My Resume</a>
 </div>
