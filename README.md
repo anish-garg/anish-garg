@@ -23,9 +23,9 @@
 
 
 <hr style="height: 2px; background-color: #333; border: none;"/>
-<div align = "center">![.](https://github.com/user-attachments/assets/6eee4cc1-601d-4e0a-944a-8b35241c0e34)
-
-<a href='https://drive.google.com/file/d/11CWh_BPurKdRxHojmcGN6ceiP5w0YXfn/view?usp=drive_link' target='_blank'>My Resume</a>
+<div align = "center">
+<a href='https://drive.google.com/file/d/11CWh_BPurKdRxHojmcGN6ceiP5w0YXfn/view?usp=drive_link' target='_blank'><img src = "https://github.com/user-attachments/assets/c56d667f-fb99-46d9-85b3-49194f1c8216"/>
+My Resume</a>
 </div>
 
 ---
